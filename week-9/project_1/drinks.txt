@@ -1,0 +1,7 @@
+List of high quality drink categories
+Lager:
+33 Exports, Desperados, Goldberg, Gulder, Heineken, Star
+Stout:
+Legend, Turbo King, Williams
+Non-Alcogolic:
+Maltina, Amstel Malta, Malta Gold, Fayrouz
